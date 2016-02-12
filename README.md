@@ -11,9 +11,8 @@ Kodların Kullanımı :
 - (burada) SoruEkle.java içerisinde bulunan kodları projemizde yeni oluşturduğumuz dosya içine yerleştiriyoruz..
 - Son olarak ta Manifest dosyamızın içine aşağıdaki izinleri ekliyoruz.
 
- 
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+   android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+   android:name="android.permission.READ_EXTERNAL_STORAGE"
 
 
 Detaylı bilgi ve iletişim için http://www.umutonur.com/ adresini ziyaret edebilirsiniz. 
